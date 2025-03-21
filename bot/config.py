@@ -18,5 +18,5 @@ OPENAI_API_KEY=os.getenv("OPENAI_API_KEY")
 
 
 # Website URL
-WEBSITE_URL = "https://www.thestandingchurch.com"
+WEBSITE_URL = "enter website url"
 SITEMAP_URL = f"{WEBSITE_URL}/wp-sitemap.xml"
